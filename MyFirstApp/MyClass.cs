@@ -6,7 +6,7 @@ namespace MyFirstApp
 {
     class MyClass
     {
-        static void main(String[] args)
+        public void hello()
         {
             Console.WriteLine("This is my new class that will be added to the second branch");
         }
